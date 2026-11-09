@@ -1,2 +1,5 @@
 Hola desde GitHub: modificación remota
+Hola desde local: modificación local.
 Este cambio se ha realizado directamente desde GitHub.
+
+Conflicto solucionado.
