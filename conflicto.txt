@@ -1,1 +1,5 @@
 Contenido modificado desde main
+
+Contenido modificado desde desarrollo
+
+Contenido definitivo: cambios integrados de main y desarrollo.
