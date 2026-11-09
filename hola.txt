@@ -1,2 +1,2 @@
-Hola, este es mi primer archivo con Git
+Hola desde GitHub: modificación remota
 Este cambio se ha realizado directamente desde GitHub.
