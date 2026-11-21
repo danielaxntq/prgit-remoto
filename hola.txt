@@ -1,3 +1,5 @@
 esto es el texto de hola.txt
 cambio desde GitHub
 otro cambio desde GitHub
+cambio desde remoto
+en fin, muchos cambios
